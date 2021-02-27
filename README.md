@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-This application was created for Codepath's Lab 1, where we were tasked to create a barebones flashcards app that would display an answer to a question. In this project, there is one question ("Where is the U.S. Capitol located?"), and the answer is revealed when the user taps the flashcard. 
+This application was created for Codepath's Lab 1, where we were tasked to create a barebones flashcards app that would display an answer to a question. In this project, there is one question ("Where is the U.S. Capitol located?"), and the answer is revealed when the user taps the flashcard. In addition to the required tasks, I also modified the corner radius/shadows on the question card, and added multiple choice answers beneath the card.
 
 ### App Walk-though
 
