@@ -1,3 +1,4 @@
+
 ## Flashcards
 
 ## Lab 2
@@ -6,9 +7,7 @@
 In Lab 2, my Flashcards app added the extra functionality to create a new custom flashcard by passing in user-generated data. To do this, a new "+" button was added to the bottom of the main screen which brings the user to a creation modal, allowing users to input their own question and answer.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![Screen Recording 2021-03-06 at 1 58 55 PM](https://user-images.githubusercontent.com/60151523/110999991-dc2fc680-8346-11eb-92c3-77c2be3aa467.gif)
 
 ## Required
 - [x] User can open the creation screen
