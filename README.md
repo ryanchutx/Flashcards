@@ -1,6 +1,25 @@
 
 ## Flashcards
 
+## Lab 3
+
+### App Description
+In Lab 3, my Flashcards app added functionality to create an array of flashcards that a user could navigate backwards and forwards through. In addition, the ability to save existing cards to disk and read them from disk allows users to continue studying their flashcards from where they left off without missing a beat. 
+
+### App Walk-though
+`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
+![Screen Recording 2021-03-17 at 9 07 45 PM](https://user-images.githubusercontent.com/60151523/111562971-1b09b600-8765-11eb-915f-f884485607cc.gif)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 ## Lab 2
 
 ### App Description
