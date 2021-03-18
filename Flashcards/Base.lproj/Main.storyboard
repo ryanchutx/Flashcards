@@ -89,6 +89,22 @@
                                     <action selector="didTapOptionOne:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7sL-Aj-EOj"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AGR-BA-DQ6">
+                                <rect key="frame" x="52" y="803" width="31" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Prev"/>
+                                <connections>
+                                    <action selector="didTapOnPrev:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WJk-AT-EWU"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H4H-rq-pWZ">
+                                <rect key="frame" x="339" y="803" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next"/>
+                                <connections>
+                                    <action selector="didTapOnNext:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FgS-Ge-6P9"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -104,6 +120,8 @@
                         <outlet property="btnOptionTwo" destination="Iv1-km-wtK" id="Rv9-vu-UNc"/>
                         <outlet property="card" destination="n2I-Of-2dq" id="6AY-oK-u9E"/>
                         <outlet property="frontLabel" destination="TaG-mu-cZ8" id="QxG-yT-S6O"/>
+                        <outlet property="nextButton" destination="H4H-rq-pWZ" id="IMl-ls-mGr"/>
+                        <outlet property="prevButton" destination="AGR-BA-DQ6" id="izx-wU-6vc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
