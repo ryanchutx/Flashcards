@@ -1,6 +1,27 @@
 
 ## Flashcards
 
+## Lab 4
+
+### App Description
+In Lab 4, I added assets provided by CodePath to make my app look prettier and added animations when the user switches between cards. This makes it so the overall application is nicer and more enjoyable to use.
+
+### App Walk-though
+
+![lab4](https://user-images.githubusercontent.com/60151523/113358975-6c40aa80-930c-11eb-857f-3726a8ec7db5.gif)
+
+## Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
 ## Lab 3
 
 ### App Description
